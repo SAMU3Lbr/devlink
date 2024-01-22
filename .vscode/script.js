@@ -16,9 +16,5 @@ function toggleMode() {
     //set tiver sem light mode manter a imagem normal
     img.setAttribute("src", "./assets/avatar.png")
     img.setAttribute("alt", 'foto de um carro preto e com o fundo claro')
-}
-
- 
-    
-    
+ }
 }
